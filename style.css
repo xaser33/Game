@@ -1,0 +1,21 @@
+head{
+  text-align: center;
+  font-family:monospace;
+}
+body{
+  text-align: center;
+  font-family:monospace;
+}
+
+#user-input{
+  font-family:monospace;
+  width: 100%;
+  position: sticky;
+  top: 10px;
+}
+/*
+#game-text is the scrolling text item which shows all progress.
+*/
+#game-text{
+  text-align: left;
+}
